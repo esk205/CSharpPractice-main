@@ -1,0 +1,16 @@
+C:\Users\Mike\Desktop\CSharpPractice-main\VSCodeCSharpIntro\bin\Debug\net5.0\VSCodeCSharpIntro.exe
+C:\Users\Mike\Desktop\CSharpPractice-main\VSCodeCSharpIntro\bin\Debug\net5.0\VSCodeCSharpIntro.deps.json
+C:\Users\Mike\Desktop\CSharpPractice-main\VSCodeCSharpIntro\bin\Debug\net5.0\VSCodeCSharpIntro.runtimeconfig.json
+C:\Users\Mike\Desktop\CSharpPractice-main\VSCodeCSharpIntro\bin\Debug\net5.0\VSCodeCSharpIntro.runtimeconfig.dev.json
+C:\Users\Mike\Desktop\CSharpPractice-main\VSCodeCSharpIntro\bin\Debug\net5.0\VSCodeCSharpIntro.dll
+C:\Users\Mike\Desktop\CSharpPractice-main\VSCodeCSharpIntro\bin\Debug\net5.0\ref\VSCodeCSharpIntro.dll
+C:\Users\Mike\Desktop\CSharpPractice-main\VSCodeCSharpIntro\bin\Debug\net5.0\VSCodeCSharpIntro.pdb
+C:\Users\Mike\Desktop\CSharpPractice-main\VSCodeCSharpIntro\obj\Debug\net5.0\VSCodeCSharpIntro.csprojAssemblyReference.cache
+C:\Users\Mike\Desktop\CSharpPractice-main\VSCodeCSharpIntro\obj\Debug\net5.0\VSCodeCSharpIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Desktop\CSharpPractice-main\VSCodeCSharpIntro\obj\Debug\net5.0\VSCodeCSharpIntro.AssemblyInfoInputs.cache
+C:\Users\Mike\Desktop\CSharpPractice-main\VSCodeCSharpIntro\obj\Debug\net5.0\VSCodeCSharpIntro.AssemblyInfo.cs
+C:\Users\Mike\Desktop\CSharpPractice-main\VSCodeCSharpIntro\obj\Debug\net5.0\VSCodeCSharpIntro.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\CSharpPractice-main\VSCodeCSharpIntro\obj\Debug\net5.0\VSCodeCSharpIntro.dll
+C:\Users\Mike\Desktop\CSharpPractice-main\VSCodeCSharpIntro\obj\Debug\net5.0\ref\VSCodeCSharpIntro.dll
+C:\Users\Mike\Desktop\CSharpPractice-main\VSCodeCSharpIntro\obj\Debug\net5.0\VSCodeCSharpIntro.pdb
+C:\Users\Mike\Desktop\CSharpPractice-main\VSCodeCSharpIntro\obj\Debug\net5.0\VSCodeCSharpIntro.genruntimeconfig.cache
