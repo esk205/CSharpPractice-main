@@ -32,8 +32,8 @@ namespace C_Sharp_Project // Namespace is a collection of classes
             area2 = r2.helloWorld1(5, 5);
             //area = r.helloWorld1(5, 5);
 
-            r2.setLength(5);
-            r2.setWidth(4);
+            r2.setLength2(5);
+            r2.setWidth2(4);
 
             area2 = r2.width2*r2.length2;
            // r.setLength(3);

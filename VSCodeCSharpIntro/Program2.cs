@@ -11,10 +11,10 @@ namespace C_Sharp_Project // Namespace is a collection of classes
         {
             return width2* length2;
         }
-        public void setWidth(int w){
+        public void setWidth2(int w){
             width2 = w; // updates the class variable width value
         }
-        public void setLength(int l){
+        public void setLength2(int l){
             length2 = l; // updates the class variable length value
         }
     }
